@@ -1,13 +1,13 @@
 WithSerializer
 ==============
 
-Introduction goes here.
+Use another Serializer for a model in controller context. This is useful for any API. You can use your vanilla ActiveRecord Models as usual, and just add custom serialization methods in any controller. Goes well with REST.
 
 
 Example
 =======
 
-Example goes here.
+Following
 
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Railsbros, released under the MIT license
